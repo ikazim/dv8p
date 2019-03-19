@@ -14,6 +14,7 @@ This is also just a reminder for me how I did it in case I get alzheimer's.
 
 ### Why GNOME?
 Touch and rotation works out of the box. No need for hacky workarounds and such.
+
 It's also an overall nice experience on a small display. 
 
 # Preparation ⏳
