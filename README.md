@@ -69,7 +69,7 @@ When it's finished installing, log out and select your user, click on the cogwhe
 
 You're now greeted with classic GNOME. 
 
-Since we don't need Ubuntus GNOME evironmen anymore, let's remove it.
+Since we don't need Ubuntus GNOME environment anymore, let's remove it.
 
 `$ sudo apt-get autoremove ubuntu-session snapd`
 
