@@ -12,6 +12,9 @@ If you're tired of Windows 10 and wants to give your tablet a greater experience
 
 This is also just a reminder for me how I did it in case I get alzheimer's. 
 
+### Why GNOME?
+Touch and rotation works out of the box. No need for hacky workarounds and such.
+It's also an overall nice experience on a small display. 
 
 # Preparation ⏳
 
@@ -95,6 +98,10 @@ Everything is much better, except that everything is tiny.  GNOME Tweaks should 
 Crank up GNOME Tweaks, click on Fonts, and type in `1,30` into Scaling Factor. Everything should look okay now. 
 If you're experiencing scaling issues, a quick logout and in should solve the problems. 
 
+#### Internet 
+
+For a better browsing experience, use Chromium. It supports native touchscreen gestures unlike Firefox.
+It's also a lot faster than Firefox. 
 
 ##### Scaling
 It's a lot better than Ubuntu GNOME already, but the scaling might look too big, or too small.  
