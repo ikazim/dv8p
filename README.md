@@ -82,6 +82,12 @@ First thing's first, let's remove Ubuntus GNOME environment.
 Animations aren't necessary, they hog a lot of resources and can be disabled.
 Open up GNOME Tweaks, select `General` and disable Animations.
 
+GNOME Tweaks should be installed by default. If not, install it by typing this into the terminal.
+
+`$ sudo add-apt-repository universe`
+
+`$ sudo apt install gnome-tweak-tool`
+
 ##### GNOME Search
 
 I can not stress this enough, this is easily the biggest resource hog. 
@@ -90,11 +96,7 @@ Go to `Settings → Search` and disable everything here.
 
 ##### Fonts
 
-Everything is much better, except that everything is tiny.  GNOME Tweaks should be installed by default. If not, install it by typing this into the terminal.
-
-`$ sudo add-apt-repository universe`
-
-`$ sudo apt install gnome-tweak-tool`
+Everything is much better, except that everything is tiny. 
 
 Crank up GNOME Tweaks, click on Fonts, and type in `1,30` into Scaling Factor. Everything should look okay now. 
 If you're experiencing scaling issues, a quick logout and in should solve the problems. 
