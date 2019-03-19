@@ -73,7 +73,7 @@ First thing's first, let's remove Ubuntus GNOME environment.
 
 `$ sudo apt-get autoremove ubuntu-session snapd`
 
-#### Animations
+### Animations
 
 Animations aren't necessary, they hog a lot of resources and can be disabled.
 Open up GNOME Tweaks, select `General` and disable Animations.
@@ -84,7 +84,7 @@ GNOME Tweaks should be installed by default. If not, install it by typing this i
 
 `$ sudo apt install gnome-tweak-tool`
 
-#### GNOME Search
+### GNOME Search
 
 I can not stress this enough, this is easily the biggest resource hog. 
 
@@ -104,7 +104,7 @@ This is a personal opinion but I prefer 100%.
 
 I've also noticed a one-time bug that it might not scale properly the first time. Pick 125%, select Apply, and then pick 100% again. 
 
-#### Fonts
+### Fonts
 
 Not a fan of tiny fonts after adjusting the scaling? Me neither. Let's fix it.
 
