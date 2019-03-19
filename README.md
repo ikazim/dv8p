@@ -12,7 +12,7 @@ If you're tired of Windows 10 and wants to give your tablet a greater experience
 
 This is also just a reminder for me how I did it in case I get alzheimer's. 
 
-### Why GNOME?
+#### Why GNOME?
 Touch and rotation works out of the box. No need for hacky workarounds and such.
 
 It's also an overall nice experience on a small display. 
