@@ -94,18 +94,6 @@ I can not stress this enough, this is easily the biggest resource hog.
 
 Go to `Settings → Search` and disable everything here. 
 
-##### Fonts
-
-Everything is much better, except that everything is tiny. 
-
-Crank up GNOME Tweaks, click on Fonts, and type in `1,30` into Scaling Factor. Everything should look okay now. 
-If you're experiencing scaling issues, a quick logout and in should solve the problems. 
-
-#### Internet 
-
-For a better browsing experience, use Chromium. It supports native touchscreen gestures unlike Firefox.
-It's also a lot faster than Firefox. 
-
 ##### Scaling
 It's a lot better than Ubuntu GNOME already, but the scaling might look too big, or too small.  
 Fractional scaling is not enabled by default, crank up the terminal and type in the following:
@@ -120,4 +108,17 @@ This is a personal opinion but I prefer 100%.
 
 I've also noticed a one-time bug that it might not scale properly the first time. Pick 125%, select Apply, and then pick 100% again. 
 
-#### You should now have a fully functional Ubuntu Linux installation on your Dell Venue 8 Pro 5855.
+##### Fonts
+
+Not a fan of tiny fonts after adjusting the scaling? Me neither. Let's fix it.
+
+Crank up GNOME Tweaks, click on Fonts, and type `1,30` into Scaling Factor. Everything should look okay now. 
+If you're experiencing scaling issues, a quick logout and in should solve the problems. 
+
+#### Internet 
+
+For a better browsing experience, use Chromium. It supports native touchscreen gestures unlike Firefox.
+It's also a lot faster than Firefox. 
+
+
+### You should now have a fully functional Ubuntu Linux installation on your Dell Venue 8 Pro 5855.
