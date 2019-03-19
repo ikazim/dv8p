@@ -121,4 +121,4 @@ For a better browsing experience, use Chromium. It supports native touchscreen g
 It's also a lot faster than Firefox. 
 
 
-### You should now have a fully functional Ubuntu Linux installation on your Dell Venue 8 Pro 5855.
+#### You should now have a fully functional Ubuntu Linux installation on your Dell Venue 8 Pro 5855.
