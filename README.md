@@ -67,9 +67,9 @@ Ubuntus flavor of GNOME hogs way too much resources, I therefore recommend insta
 
 When it's finished installing, log out and select your user, click on the cogwheel next to the Sign In-button and select GNOME.
 
-You're now greeted with classic GNOME. It's an eyesore but we'll make it look okay. 
+You're now greeted with classic GNOME. 
 
-First thing's first, let's remove Ubuntus GNOME environment. 
+Since we don't need Ubuntus GNOME evironmen anymore, let's remove it.
 
 `$ sudo apt-get autoremove ubuntu-session snapd`
 
