@@ -60,9 +60,7 @@ Reboot.
 You should now have a functional audio device called MonoDevice instead of Dummy Output. 
 
 
-### Performance issues 🚤
-
-#### Desktop Environment 
+### Desktop Environment 
 Ubuntus flavor of GNOME hogs way too much resources, I therefore recommend installing the vanilla version of it.
 
 `$ sudo apt-get install vanilla-gnome-desktop vanilla-gnome-default-settings`
@@ -75,9 +73,7 @@ First thing's first, let's remove Ubuntus GNOME environment.
 
 `$ sudo apt-get autoremove ubuntu-session snapd`
 
-#### Appearance and performance tuning inside GNOME
-
-##### Animations
+#### Animations
 
 Animations aren't necessary, they hog a lot of resources and can be disabled.
 Open up GNOME Tweaks, select `General` and disable Animations.
@@ -88,13 +84,13 @@ GNOME Tweaks should be installed by default. If not, install it by typing this i
 
 `$ sudo apt install gnome-tweak-tool`
 
-##### GNOME Search
+#### GNOME Search
 
 I can not stress this enough, this is easily the biggest resource hog. 
 
 Go to `Settings → Search` and disable everything here. 
 
-##### Scaling
+#### Scaling
 It's a lot better than Ubuntu GNOME already, but the scaling might look too big, or too small.  
 Fractional scaling is not enabled by default, crank up the terminal and type in the following:
 
@@ -108,14 +104,14 @@ This is a personal opinion but I prefer 100%.
 
 I've also noticed a one-time bug that it might not scale properly the first time. Pick 125%, select Apply, and then pick 100% again. 
 
-##### Fonts
+#### Fonts
 
 Not a fan of tiny fonts after adjusting the scaling? Me neither. Let's fix it.
 
 Crank up GNOME Tweaks, click on Fonts, and type `1,30` into Scaling Factor. Everything should look okay now. 
 If you're experiencing scaling issues, a quick logout and in should solve the problems. 
 
-#### Internet 
+### Internet 
 
 For a better browsing experience, use Chromium. It supports native touchscreen gestures unlike Firefox.
 It's also a lot faster than Firefox. 
