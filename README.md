@@ -90,7 +90,7 @@ I can not stress this enough, this is easily the biggest resource hog.
 
 Go to `Settings → Search` and disable everything here. 
 
-#### Scaling
+### Scaling
 It's a lot better than Ubuntu GNOME already, but the scaling might look too big, or too small.  
 Fractional scaling is not enabled by default, crank up the terminal and type in the following:
 
