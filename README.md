@@ -1,5 +1,9 @@
 # 🎉 Ubuntu on Dell Venue 8 Pro 5855
 
+<p align="center">
+  <img width="460" height="300" src="dello.png">
+</p>
+
 #### Why is this page a thing?
 Dell Venue 8 Pro 5855 is a great tablet, however, it does not play very nice on a stock install of whatever distro you're throwing at it.
 
